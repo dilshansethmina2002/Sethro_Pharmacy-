@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+
+    
+</head>
+<body>
+
+    
+    <header class="head">
+        <img class="main-img" src="home/22.jpg" alt="">
+        <div class="image">
+            <img src="home/1.jpg" alt="">
+        </div>
+        <nav class="nav-bar">
+            <a href="home.html">Home</a>
+            <a href="medicine.html">Buy medicine</a>
+            <a href="shop-now.html">Shop now</a>
+            <a href="bmi.html" class="unique-bg-color">BMI</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+            
+        </nav>
+    </header>
+    
+    <div class="bmi_body">
+    <div class="wrapper">
+        <div>
+        <h1 class="header_bmi">BMI Calculator</h1>
+        <p class="bmi_name">Height :</p>
+            <input type="text" id="height" placeholder="Enter your height in cm..."><br><span id="height_error"></span>
+        
+
+        <p class="bmi_name">Weight :</p>
+            <input type="text" id="weight" placeholder="Enter your weight in Kg..."><br><span id="weight_error"></span>
+        
+
+        <button id="btn">Calculate</button>
+        <p id="output"></p>
+    </div>
+    </div>
+</body>
+
+</html>
