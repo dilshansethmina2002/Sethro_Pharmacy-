@@ -6,12 +6,12 @@ Sethro Pharmacy is a comprehensive pharmacy management system designed to stream
 - **Inventory Management**: Track and manage medicines and other products.
 - **Sales Management**: Process sales and generate invoices.
 - **Reporting**: Generate detailed reports on inventory and sales.
-- **User Management**: Admin and user roles for secure access.
+- **BMI calculator for users to check 
 
 ## Technologies Used
-- **Frontend**: [Specify technologies, e.g., HTML, CSS, JavaScript]
-- **Backend**: [Specify technologies, e.g., PHP, Java, C#]
-- **Database**: [Specify database, e.g., MySQL, PostgreSQL]
+- **Frontend**: [e.g., HTML, CSS, JavaScript]
+- **Backend**: [e.g., PHP, Java, C#]
+- **Database**: [e.g., MySQL]
 
 ## Installation
 1. Clone the repository:
